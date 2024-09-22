@@ -44,6 +44,3 @@ python scraper.py
 - Fork 此倉庫。
 - 創建一個新的分支並進行修改。
 - 提交 Pull Request。
-
-## 授權協議(License)
-This project is licensed under the MIT License.
