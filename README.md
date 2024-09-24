@@ -17,14 +17,12 @@
 
 1. 克隆此倉庫：
 ```bash
-git clone https://github.com/你的用戶名/facebook-scraping.git
-cd facebook-scraping
+git clone https://github.com/LIAO-JIA-LE/FB-post-crawler-expired.git
+cd FB-post-crawler-expired
 ```
 
 2. 安裝所需的相依套件：
-```bash
-pip install -r requirements.txt
-```
+   
 3. 確保已安裝對應版本的 Chrome 瀏覽器以及 ChromeDriver，並將 ChromeDriver 加入到你的 PATH 中。
 
 ## 使用方式
