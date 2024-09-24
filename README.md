@@ -31,7 +31,7 @@ pip install -r requirements.txt
 在程式碼中更新你的 Facebook 登入憑證（如果需要）。
 執行腳本：
 ```bash
-python scraper.py
+python fb.py
 ```
 
 ## 已知問題
